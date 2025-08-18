@@ -21,7 +21,7 @@ section {
 
 #large_image {
     max-width: 95vw;
-    max-height: 100vh;
+    max-height: 95vh;
     width: auto;
     height: auto;
     opacity: 0;
@@ -42,6 +42,7 @@ img {
     z-index: 0;
     columns: 300px;
     padding: 1em;
+    column-gap: 1em;
 }
 
 .image {
